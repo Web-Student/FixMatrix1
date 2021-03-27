@@ -1,0 +1,16 @@
+C:\Users\rache\Documents\Spring 2021\OS\Lottery1\obj\Debug\net5.0\OS.csprojAssemblyReference.cache
+C:\Users\rache\Documents\Spring 2021\OS\Lottery1\obj\Debug\net5.0\OS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rache\Documents\Spring 2021\OS\Lottery1\obj\Debug\net5.0\OS.AssemblyInfoInputs.cache
+C:\Users\rache\Documents\Spring 2021\OS\Lottery1\obj\Debug\net5.0\OS.AssemblyInfo.cs
+C:\Users\rache\Documents\Spring 2021\OS\Lottery1\obj\Debug\net5.0\OS.csproj.CoreCompileInputs.cache
+C:\Users\rache\Documents\Spring 2021\OS\Lottery1\bin\Debug\net5.0\OS.exe
+C:\Users\rache\Documents\Spring 2021\OS\Lottery1\bin\Debug\net5.0\OS.deps.json
+C:\Users\rache\Documents\Spring 2021\OS\Lottery1\bin\Debug\net5.0\OS.runtimeconfig.json
+C:\Users\rache\Documents\Spring 2021\OS\Lottery1\bin\Debug\net5.0\OS.runtimeconfig.dev.json
+C:\Users\rache\Documents\Spring 2021\OS\Lottery1\bin\Debug\net5.0\OS.dll
+C:\Users\rache\Documents\Spring 2021\OS\Lottery1\bin\Debug\net5.0\ref\OS.dll
+C:\Users\rache\Documents\Spring 2021\OS\Lottery1\bin\Debug\net5.0\OS.pdb
+C:\Users\rache\Documents\Spring 2021\OS\Lottery1\obj\Debug\net5.0\OS.dll
+C:\Users\rache\Documents\Spring 2021\OS\Lottery1\obj\Debug\net5.0\ref\OS.dll
+C:\Users\rache\Documents\Spring 2021\OS\Lottery1\obj\Debug\net5.0\OS.pdb
+C:\Users\rache\Documents\Spring 2021\OS\Lottery1\obj\Debug\net5.0\OS.genruntimeconfig.cache
